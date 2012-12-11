@@ -43,6 +43,7 @@
     <LessCompileOnBuild>true</LessCompileOnBuild>
     <LessCompileToFolder>true</LessCompileToFolder>
     <LessGenerateCssFile>true</LessGenerateCssFile>
+    <LessMargin_width>96</LessMargin_width>
     <LessMinify>true</LessMinify>
     <LessShowPreviewWindow>true</LessShowPreviewWindow>
     <ScssGenerateCssFile>True</ScssGenerateCssFile>
